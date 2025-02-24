@@ -1,0 +1,17 @@
+{
+  "name": "jd.boiv.in.scene-selector",
+  "version": "1.0.0",
+  "displayName": "Scene Selector",
+  "description": "Dropdown next to play to select scenes in Unity",
+  "dependencies": {
+    
+ },
+ "keywords": [
+    "utility", "editor"
+  ],
+  "author": {
+    "name": "Jean-Denis Boivin",
+    "email": "jd@boiv.in",
+    "url": "https://jd.boiv.in"
+  }
+}
