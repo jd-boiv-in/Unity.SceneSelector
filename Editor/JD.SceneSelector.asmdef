@@ -1,5 +1,5 @@
 {
-    "name": "SceneSelector.Editor",
+    "name": "JD.SceneSelector",
     "rootNamespace": "JD.SceneSelector",
     "references": [],
     "includePlatforms": [
