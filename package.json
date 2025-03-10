@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "displayName": "Scene Selector",
   "description": "Dropdown next to play to select scenes in Unity",
+  "license": "MIT",
   "dependencies": {
   
   },
