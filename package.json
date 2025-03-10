@@ -4,9 +4,9 @@
   "displayName": "Scene Selector",
   "description": "Dropdown next to play to select scenes in Unity",
   "dependencies": {
-    
- },
- "keywords": [
+  
+  },
+  "keywords": [
     "utility", "editor"
   ],
   "author": {
